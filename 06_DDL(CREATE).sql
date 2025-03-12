@@ -456,7 +456,7 @@ INSERT INTO MEMBER
 --> 외래키로 설정한 컬럼에는 기본적으로 NULL값은 저장 가능
 
 INSERT INTO MEMBER 
-       VALUES (7, 'SS25', '1234', 'KKH2', '남', SYSDATE, 100);
+       VALUES (7, 'SS25', '1234', 'KKH2', '남', SYSDATE, 600);
 --> 오류 발생!! "부모키가 없습니다."" --> 회원등급 테이블에 저장되지 않은 값을 사용!
 
 -- MEMBER_GRADE (부모테이블) -|-------------<- MEMBER (자식테이블)
