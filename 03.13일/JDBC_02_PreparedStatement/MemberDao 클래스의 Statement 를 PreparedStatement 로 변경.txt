@@ -1,0 +1,1 @@
+** MemberDao 클래스의 Statement 를 PreparedStatement 로 변경 **
