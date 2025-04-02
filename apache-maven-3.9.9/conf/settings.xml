@@ -52,8 +52,12 @@ under the License.
    | Default: ${user.home}/.m2/repository
   <localRepository>/path/to/local/repo</localRepository>
   -->
+<<<<<<< HEAD
 
   <localRepository>C:\Users\user1\Desktop\test/repository</localRepository>
+=======
+  <localRepository>C:\Users\user1\Desktop/t2/repository</localRepository>
+>>>>>>> 169b93f27556ea236e2a8a0b8842277eb90f8ee3
 
 
   <!-- interactiveMode
