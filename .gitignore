@@ -1,1 +1,8 @@
-/.metadata/
+.metadata/
+
+**/.settings/
+**/bin/
+**/.classpath
+**/.project
+**/taget
+**/classes
